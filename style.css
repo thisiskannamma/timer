@@ -1,0 +1,14 @@
+body {
+    background:linear-gradient(to right , rgb(73, 178, 164),rgb(162, 58, 182))
+}
+h1 {
+    height: 20rem;
+    width: 25rem;
+    margin: auto;
+    margin-top: 7rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:yellow;
+    font-size:10rem;
+}
